@@ -1,7 +1,6 @@
 project: rnshah9/mayhem-jose
 target: jose
 tests: null
-image: ghcr.io/rnshah9/playground:jose
 
 cmds:
   - cmd: /repo/build/cmd/jose b64 enc -I @@
