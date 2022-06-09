@@ -1,0 +1,5 @@
+project: jose
+target: jose
+
+cmds:
+  - cmd: /repo/build/cmd/jose b64 enc -I @@
