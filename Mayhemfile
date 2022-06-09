@@ -1,6 +1,5 @@
-project: rnshah9/mayhem-jose
+project: jose
 target: jose
-tests: null
 
 cmds:
   - cmd: /repo/build/cmd/jose b64 enc -I @@
